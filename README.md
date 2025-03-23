@@ -23,3 +23,10 @@ Bu proje, **Ebebek** web sitesindeki ana sayfada bulunan ürün kaydırıcısın
 ### Proje Dosyaları
 
 - `productCarousel.js`: JavaScript dosyası. Tüm mantık burada yer almaktadır.
+
+<img width="840" alt="Ekran Resmi 2025-03-23 20 33 58" src="https://github.com/user-attachments/assets/2736d228-a58c-49e7-9c7f-3378c7f3db32" />
+<img width="840" alt="Ekran Resmi 2025-03-23 20 35 33" src="https://github.com/user-attachments/assets/d24eaaf3-6e61-4652-8d6a-a96bb061067b" />
+<img width="840" alt="Ekran Resmi 2025-03-23 20 44 03" src="https://github.com/user-attachments/assets/6bb89831-afbc-402b-9982-fbdc5e5ad19a" />
+
+
+
