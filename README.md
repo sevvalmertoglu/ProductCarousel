@@ -11,14 +11,13 @@ Bu proje, **Ebebek** web sitesindeki ana sayfada bulunan ürün kaydırıcısın
 - **Responsive Tasarım**: Tasarım, tüm platformlarda düzgün çalışacak şekilde responsive olarak tasarlanmıştır.
 - **Ürün Detayları**: Kullanıcı bir ürüne tıkladığında, ilgili ürün sayfası yeni bir sekmede açılır.
 - **Fiyat ve İndirim**: Eğer ürünün `price` ve `original_price` değerleri farklı ise, her iki fiyat gösterilir ve indirim miktarı hesaplanır.
-- **Favori Ürünler**: Kullanıcı, ürünün kalp simgesine tıkladığında bu ürün favorilerine eklenir ve bu tercih yerel depolamada saklanır.
-- **Favori Ürünler**: Kod ikinci kez çalıştırıldığında, favorilere eklenen ürünler tekrar gösterilir ve dolu kalp simgeleri ile işaretlenir.
+- **Favori Ürünler**: Kullanıcı, ürünün kalp simgesine tıkladığında bu ürün favorilerine eklenir ve bu tercih yerel depolamada saklanır. Kod ikinci kez çalıştırıldığında, favorilere eklenen ürünler tekrar gösterilir ve dolu kalp simgeleri ile işaretlenir.
 
 ## Gereksinimler
 
 - **JavaScript**: Tüm mantık yalnızca JavaScript ile yazılmıştır.
-- **jQuery**: jQuery (isteğe bağlı) kullanılabilir.
-- **Chrome Developer Tools**: Proje, Chrome Developer Tools konsolunda çalıştırılabilir olmalıdır.
+- **jQuery**: jQuery kullanılmıştır.
+- **Chrome Developer Tools**: Proje, Chrome Developer Tools konsolunda çalıştırılabilir.
 
 ### Proje Dosyaları
 
